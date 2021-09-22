@@ -61,7 +61,7 @@
     "uniqCompNum": 16,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "h6xtkm1gez"
   },
   "pages": {
